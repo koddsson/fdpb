@@ -1,4 +1,4 @@
-# Form Design Patterns (Working title)
+# Form Design Patterns
 
 [Nostyle Design System](http://nostyle.herokuapp.com)
 
